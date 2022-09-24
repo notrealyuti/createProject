@@ -6,8 +6,8 @@
 
 #### Compile
 `$ cd createProject` <br> 
-`$ make _deploy`
-
+`$ make _deploy`     <br><br>
+ If you want you can put the `build/createProject` file in your `/bin` directory.
 
 ## Usage
 `$ createProject <project-name:str> <mode:int>`
